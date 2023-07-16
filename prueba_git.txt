@@ -2,4 +2,4 @@
 esta es una historia de la vida para almacenar data en un git.
 
 estará almacenado en la carpeta curso_git por el momento.
-actualización del archivo, para realizar un nuevo commit.
+actualización del archivo, para realizar un nuevo commit y los comandos de git.
