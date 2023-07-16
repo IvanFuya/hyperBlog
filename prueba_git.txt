@@ -1,4 +1,5 @@
-esta es una historia para almacenar data en un git.
+
+esta es una historia de la vida para almacenar data en un git.
 
 estará almacenado en la carpeta curso_git por el momento.
 actualización del archivo, para realizar un nuevo commit.
